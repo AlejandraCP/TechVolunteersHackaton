@@ -1,0 +1,56 @@
+body{
+    
+    background-color: rgba(141, 128, 128, 0.048);
+    border:none;
+}
+.img {
+    width:250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.center {
+    text-align: center ;
+}
+
+.green {
+    background-color: rgba(100, 245, 226, 0.493);
+    border:none;
+}
+
+.yellow {
+    background-color: rgba(243, 168, 7, 0.301);
+    border:none;
+}
+
+.orange {
+    background-color: rgba(219, 243, 111, 0.493);
+    border:none;
+}
+
+.width {
+    width: 80%;
+    margin: 21px auto;
+    border:none;
+}
+
+
+.panel-title ,.panel-heading{
+    border:none;
+    color: rgba(6, 10, 31, 0.521);
+    font-weight: 800;
+}
+
+.title {
+    size: 24px;
+    color: rgba(6, 10, 31, 0.521);
+    font-weight: 800;
+}
+
+.icon {
+    width: 25px;
+}
+
+.font {
+font-weight: 700;
+}
