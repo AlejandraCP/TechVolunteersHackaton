@@ -1,0 +1,77 @@
+body{
+    
+    background-color: rgba(141, 128, 128, 0.048);
+    border:none;
+}
+.img {
+    width:400px;
+    height: 250px;
+}
+
+.parrafo {
+    text-indent: right;
+    line-height: 1.8;
+    font-size: 15px;
+}
+hr {
+    margin: 0 40px;
+    color: blue;
+}
+
+.btnn {
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.padding {
+    padding-left: 50px;
+}
+.center {
+    text-align: center ;
+}
+
+.green {
+    border:none;
+}
+
+.yellow {
+    border:none;
+}
+
+.orange {
+    border:none;
+}
+
+.width {
+    width: 80%;
+    margin: 21px auto;
+    border:none;
+}
+
+
+
+.panel-title ,.panel-heading{
+    border:none;
+    color: rgba(6, 10, 31, 0.521);
+    font-weight: 800;
+}
+
+.title {
+    size: 24px;
+    color: rgba(6, 10, 31, 0.521);
+    font-weight: 800;
+}
+
+.icon {
+    width: 25px;
+}
+
+.font {
+font-weight: 700;
+}
+
+.container {
+    border-color:red;
+}

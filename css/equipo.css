@@ -1,0 +1,43 @@
+body{
+    padding: 35px;
+    margin: 0;
+    background-color: rgba(204, 209, 208, 0.288)
+    
+}
+.green {
+    background-color: rgba(192, 128, 192, 0.349);
+    border:none;
+}
+
+img {
+    width: 80%;
+}
+
+.shadow2 { 
+    color: rgb(26, 7, 37);
+    text-shadow: 4px 4px 10px rgba(245, 182, 10, 0.685);
+    font-size: 38px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    
+    
+  }
+
+  .center {
+      text-align: center;
+      padding-bottom: 15px;
+  }
+
+i ,i.icon{
+  padding: 7px;
+  color: rgb(252, 157, 33);size:16px;
+  font-weight:700; 
+  font-size: 17px;
+}
+  
+.paginacion{
+    margin: 42px;
+}
+
+.title {
+    font-size: 18px;
+}
