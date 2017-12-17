@@ -4,6 +4,10 @@ body{
     background-color: rgba(204, 209, 208, 0.288)
     
 }
+.green {
+    background-color: rgba(192, 128, 192, 0.349);
+    border:none;
+}
 
 img {
     width: 80%;

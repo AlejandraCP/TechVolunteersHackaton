@@ -14,17 +14,17 @@ body{
 }
 
 .green {
-    background-color: rgba(100, 245, 226, 0.493);
+    background-color: rgba(192, 128, 192, 0.349);
     border:none;
 }
 
 .yellow {
-    background-color: rgba(243, 168, 7, 0.301);
+    background-color: rgba(70, 238, 216, 0.301);
     border:none;
 }
 
 .orange {
-    background-color: rgba(219, 243, 111, 0.493);
+    background-color: rgba(234, 247, 60, 0.493);
     border:none;
 }
 
