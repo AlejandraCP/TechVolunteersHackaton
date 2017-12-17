@@ -41,3 +41,47 @@
   }
 }
  
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(236, 234, 234);
+}
+/* button */
+div.btn-padd {
+  padding: 1rem 6rem;
+}
+/* links*/
+
+.links-block {
+  display: block;
+  padding: 1rem 3.5rem;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* Carrusel style */
+
+nav.navbar-quit-padding {
+  margin-bottom: 0;
+}
+
+div.carousel-height {
+  height: 60vh;
+}
+
+img.img-size{
+  position: absolute;
+  bottom: -550px;
+  width: 100%;
+}
+
+.carousel-post {
+  margin-top: 50px;
+}
