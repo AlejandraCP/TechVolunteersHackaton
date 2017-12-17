@@ -85,3 +85,39 @@ img.img-size{
 .carousel-post {
   margin-top: 50px;
 }
+
+/* 
+.center {
+  padding-top: 55px;
+} */
+
+.about-us {
+  padding: 50px 0;
+}
+
+.about-us-img-2 img{
+  width: 90%;
+}
+
+.background-gray {
+  background-color: #8a7f7f21
+}
+
+footer {
+  height: 60px;
+  background-color: #3c3c3c;
+}
+
+footer p{
+  margin: 20px 0;
+  color: #fff;
+}
+
+.about-us-img img{
+  width: 15%;
+}
+
+/* Reecribiendo clases*/
+body {
+  background-color: initial;
+}
