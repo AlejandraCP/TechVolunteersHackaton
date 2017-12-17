@@ -1,0 +1,43 @@
+.card {
+  border: 1px solid #000;
+  border-radius: 5px;
+  padding: 0;
+  margin-bottom: 3rem;
+}
+
+.card-body {
+  padding: 0 15px 15px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 180px;
+}
+
+.card .col-md-3 {
+  background-color: pink;
+}
+.description {
+  margin-left: 8.333333334%;
+  font-size: 16px;
+}
+
+
+/* */
+
+@media (min-width: 768px), (min-width: 992px) {
+  .offset {
+    margin-left: 4.166666667%;
+  }
+
+  .card:first-child {
+    margin-left: 8.333333334%;
+    margin-right: 0;
+  }
+
+  .card:nth-child(3n+1) {
+    margin-left: 8.333333334%;
+    margin-right: 0;
+  }
+}
+ 
