@@ -4,11 +4,30 @@ body{
     border:none;
 }
 .img {
-    width:250px;
+    width:400px;
     height: 250px;
-    border-radius: 50%;
 }
 
+.parrafo {
+    text-indent: right;
+    line-height: 1.8;
+    font-size: 15px;
+}
+hr {
+    margin: 0 40px;
+    color: blue;
+}
+
+.btnn {
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.padding {
+    padding-left: 50px;
+}
 .center {
     text-align: center ;
 }
@@ -32,6 +51,7 @@ body{
 }
 
 
+
 .panel-title ,.panel-heading{
     border:none;
     color: rgba(6, 10, 31, 0.521);
@@ -50,4 +70,8 @@ body{
 
 .font {
 font-weight: 700;
+}
+
+.container {
+    border-color:red;
 }
